@@ -1,23 +1,25 @@
-"""
 ==========================================
-✅ DISCLAIMER
-This project is purely for learning Python, console effects,
-and working with random data. It simulates breaches safely.
-Never attempt to use it to access real accounts.
+✅ DISCLAIMER  
+This project is purely for learning Python,  
+console effects, and working with random data.  
+It simulates breaches safely.  
+Never attempt to use it to access real accounts.  
 ==========================================
-"""
 
-███╗   ███╗██╗  ██╗██████╗ ██╗██╗     ███╗   ███╗
-████╗ ████║██║  ██║██╔══██╗██║██║     ████╗ ████║
-██╔████╔██║███████║██║  ██║██║██║     ██╔████╔██║
-██║╚██╔╝██║██╔══██║██║  ██║██║██║     ██║╚██╔╝██║
-██║ ╚═╝ ██║██║  ██║██████╔╝██║███████╗██║ ╚═╝ ██║
-╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚══════╝╚═╝     ╚═╝
 
-        ████  G M A I L   M A T R I X   B R E A C H  ████
-==========================================
+███╗   ███╗██╗  ██╗██████╗ 
+████╗ ████║██║ ██╔╝██╔══██╗
+██╔████╔██║█████╔╝ ██████╔╝
+██║╚██╔╝██║██╔══██╗██╔══██╗
+██║ ╚═╝ ██║██║  ██║██████╔╝
+╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ 
+
+      ████  G M A I L   M A T R I X   B R E A C H  ████
+=========================================================
+
 
 # Gmail Breach Simulation (Python)
+
 
 ## About
 This Python console project simulates Gmail breach scenarios purely for educational purposes.  
