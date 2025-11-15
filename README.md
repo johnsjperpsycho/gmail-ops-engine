@@ -35,5 +35,5 @@ It demonstrates **console effects, random data generation, and user interaction 
 1. Clone this repository:
 ```bash
 git clone https://github.com/johnsjperpsycho/gmail-ops-engine.git
-
-
+cd  gmail-ops-engine
+python3 gmail_matrixbreach.py
